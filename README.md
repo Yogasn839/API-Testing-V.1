@@ -1,9 +1,9 @@
-PROGRAM USE
+==PROGRAM USE==
 
-NODE JS
-EXPRESS JS
-& DATABASE POSTGRESQL
+( Node, Express, Postgresql )
 
-RUN PROGRAM "nodemon server.js"
+Npm install
+
+Run Progam "nodemon server.js"
 
 Copyright Yoga 2022
