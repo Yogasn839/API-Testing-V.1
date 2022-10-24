@@ -1,0 +1,9 @@
+PROGRAM USE
+
+NODE JS
+EXPRESS JS
+& DATABASE POSTGRESQL
+
+RUN PROGRAM "nodemon server.js"
+
+Copyright Yoga 2022
